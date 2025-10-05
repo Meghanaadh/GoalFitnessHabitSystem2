@@ -1,0 +1,47 @@
+[
+  {
+    "habits": [
+      {
+        "habitName": "Morning Jog",
+        "habitId": 1,
+        "frequency": "Daily",
+        "status": true
+      },
+      {
+        "habitName": "Drink Water 2L",
+        "habitId": 2,
+        "frequency": "Daily",
+        "status": false
+      }
+    ],
+    "goal": {
+      "goalType": "Weight Loss",
+      "goalId": 1,
+      "endDate": "2025-12-01",
+      "targetValue": 65,
+      "startDate": "2025-09-01"
+    },
+    "gender": "Other",
+    "name": "Demo User",
+    "weight": 70,
+    "streakCount": 3,
+    "userId": 1,
+    "age": 21
+  },
+  {
+    "habits": [],
+    "goal": {
+      "goalType": "weight loss",
+      "goalId": 1,
+      "endDate": "2025-09-30",
+      "targetValue": 70,
+      "startDate": "2025-09-20"
+    },
+    "gender": "male",
+    "name": "a",
+    "weight": 78,
+    "streakCount": 0,
+    "userId": 2,
+    "age": 19
+  }
+]

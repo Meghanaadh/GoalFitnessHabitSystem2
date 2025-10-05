@@ -1,0 +1,16 @@
+[{
+  "habits": [],
+  "goal": {
+    "goalType": "push ups",
+    "goalId": 1,
+    "endDate": "2025-10-18",
+    "targetValue": 20,
+    "startDate": "2025-9-18"
+  },
+  "gender": "male",
+  "name": "meghanaadh s",
+  "weight": 80,
+  "streakCount": 0,
+  "userId": 1,
+  "age": 20
+}]
